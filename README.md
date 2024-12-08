@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshiperera12&label=Profile%20views&color=0e75b6&style=flat" alt="imeshiperera12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imeshiperera12" alt="imeshiperera12" /></a> </p>
-
 - 🔭 I’m currently working on **Shion Ideals**
 
 - 🌱 I’m currently learning **Java**
@@ -23,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshiperera12&show_icons=true&locale=en&layout=compact" alt="imeshiperera12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imeshiperera12&show_icons=true&locale=en" alt="imeshiperera12" /></p>
+
+
