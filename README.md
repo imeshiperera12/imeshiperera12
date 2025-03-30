@@ -1,6 +1,6 @@
 ## Hi! I'm Imeshi Perera 👋
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshiperera12&label=Profile%20views&color=0e75b6&style=flat" alt="imeshiperera12" /> </p>
 
